@@ -55,7 +55,7 @@
 
                             <div class="ml-12">
                                 <div class="mt-2 text-gray-600 dark:text-gray-400 text-sm">
-                                    Hallo,my name is Nadhif i from bandung
+                                    Hello, my name is Nadhif. I come from Bandung. My dream is to fly high into the air through the clouds
                                 </div>
                             </div>
                         </div>
